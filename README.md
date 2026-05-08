@@ -17,11 +17,29 @@
 
 ---
 
-# 🛠️ Technologies
+### Technologies That I Work With
 
+#### 💻 Programming Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,angular,ts,js,html,css,git,github,vscode,docker,firebase" />
+  <img src="https://skillicons.dev/icons?i=java,js,py,ts,cpp,go,kotlin&theme=dark" />
 </p>
+
+#### 🗄️ Database Management
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,redis&theme=dark" />
+</p>
+
+#### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,angular&theme=dark" />
+</p>
+
+#### 🛠️ Technology Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,github,githubactions,vscode,postman,maven,vite,npm,discord,androidstudio,idea,latex&theme=dark" />
+</p>
+
+
 
 ---
 
