@@ -24,6 +24,12 @@
   <img src="https://skillicons.dev/icons?i=java,js,py,ts,cpp,go,kotlin&theme=dark" />
 </p>
 
+
+#### 🚀 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,angular,react,bootstrap,tailwind&theme=dark" />
+</p>
+
 #### 🗄️ Database Management
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,redis&theme=dark" />
@@ -31,7 +37,7 @@
 
 #### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,angular&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 </p>
 
 #### 🛠️ Technology Tools
