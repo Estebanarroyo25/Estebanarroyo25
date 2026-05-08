@@ -36,7 +36,7 @@
 
 #### 🛠️ Technology Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,github,githubactions,vscode,postman,maven,vite,npm,discord,androidstudio,idea,latex&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,docker,github,githubactions,vscode,postman,maven,vite,npm,discord,androidstudio,idea,latex,aws,n8n&theme=dark" />
 </p>
 
 
