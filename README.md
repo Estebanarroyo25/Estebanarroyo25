@@ -9,11 +9,21 @@
 
 # 💫 About Me
 
-- 💻 Software Developer
-- 🏋️ Creator of a Gym App
-- 🌱 Learning Spring Boot & Angular
-- 🔥 Passionate about AI and Trading
-- 🚀 Building modern applications
+💻 Software Developer passionate about database systems, cybersecurity, AI, and emerging technologies.
+
+🚀 Active contributor to academic projects and freelance and team work using agile methodologies.
+
+🏋️ Creator of functional applications, such as an inventory system for hardware stores and a gym app.
+
+🔬 IoT researcher, designing theoretical vital signs monitoring systems with ESP32.
+
+🔗 Active in tech communities, focusing on database optimization and scalable solutions.
+
+🌟 Aspiring Full-Stack Developer, focused on mastering the Java, Spring Boot, and Angular ecosystems.
+
+🌎 Bilingual: Native Spanish speaker and intermediate English speaker.
+
+🚀 Building modern applications
 
 ---
 
@@ -65,7 +75,7 @@
 
 <p align="center">
 <a href="https://instagram.com/TUINSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
 
