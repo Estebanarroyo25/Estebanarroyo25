@@ -62,10 +62,6 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Estebanarroyo25&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Estebanarroyo25&theme=tokyonight"/>
 </p>
 
@@ -74,8 +70,8 @@
 # 🌐 Connect with me
 
 <p align="center">
-<a href="https://gmail.com/estebanarroyo538@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:estebanarroyo538@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
 
