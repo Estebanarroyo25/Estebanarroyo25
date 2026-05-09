@@ -74,7 +74,7 @@
 # 🌐 Connect with me
 
 <p align="center">
-<a href="https://instagram.com/TUINSTAGRAM">
+<a href="https://gmail.com/estebanarroyo538@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
